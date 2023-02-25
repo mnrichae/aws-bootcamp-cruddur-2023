@@ -6,4 +6,5 @@ https://lucid.app/lucidchart/ef6c2c65-da71-4792-8034-69e67c5deb56/edit?viewport_
 <img width="549" alt="image" src="https://user-images.githubusercontent.com/104549627/221376801-2cba6116-523a-4a5c-9a6e-cee7ffcc42eb.png">
 
 
-## Install AWS CLI
+### Install AWS CLI
+please see updated .gitpod.yml
