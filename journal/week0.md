@@ -8,3 +8,9 @@ https://lucid.app/lucidchart/ef6c2c65-da71-4792-8034-69e67c5deb56/edit?viewport_
 
 ### Install AWS CLI
 please see updated .gitpod.yml
+
+
+### Create a Billing Alarm
+
+
+## Create a Budget
