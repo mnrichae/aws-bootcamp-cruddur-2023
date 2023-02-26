@@ -16,3 +16,5 @@ did it thru CLI as shown in aws/json/budget-notifications-with-subscribers.json
 
 ### Create a Budget
 did it thru CLI as shown in aws/json/budget.json
+
+<img width="1215" alt="image" src="https://user-images.githubusercontent.com/104549627/221439973-b85f410a-4fc6-4f48-b476-7612264f0e2b.png">
