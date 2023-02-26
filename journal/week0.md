@@ -11,6 +11,8 @@ please see updated .gitpod.yml
 
 
 ### Create a Billing Alarm
+did it thru CLI as shown in aws/json/budget-notifications-with-subscribers.json
 
 
-## Create a Budget
+### Create a Budget
+did it thru CLI as shown in aws/json/budget.json
