@@ -11,11 +11,20 @@ please see updated .gitpod.yml
 
 
 ### Create a Billing Alarm
+
+#### Create SNS Topic
+did it thru CLI and successfully created it:
+<img width="747" alt="image" src="https://user-images.githubusercontent.com/104549627/221441009-813849a1-eced-4235-9947-67f90bb6c45f.png">
+
+#### Create Alarm
 did it thru CLI as shown in my alarm-config.json
+
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/104549627/221440966-3d6bbf3d-ed9d-4a98-b072-39d1e4e06cfd.png">
 
 
 ### Create a Budget
 did it thru CLI as shown in aws/json/budget.json AND aws/json/budget-notifications-with-subscribers.json
+
 
 Proof:
 
